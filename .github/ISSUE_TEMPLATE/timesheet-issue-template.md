@@ -2,7 +2,7 @@
 name: Timesheet issue template
 about: Issue template for creating a new timesheet
 title: Timesheet - DD/MM/YYYY - FIRST_NAME LAST_NAME
-labels: ''
+labels: 'Timesheet'
 assignees: ''
 
 ---
