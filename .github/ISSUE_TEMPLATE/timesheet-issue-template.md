@@ -19,19 +19,8 @@ Wrote, recorded, edited, and uploaded 2 Docker tutorials. I also created several
 
 ---
 
-### Task 2
-Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-### Proof of Work
-- http://example.com/
-
-### Time Spent
-5 hours
-
----
-
 ### Total Time Spent
-8.5 hours
+3.5 hours
 
 ### Account Number
 0000000000000000000000000000000000000000000000000000000000000000
